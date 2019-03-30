@@ -1,0 +1,71 @@
+How big is your vector? 10
+
+[1]: 21
+
+[2]: 22
+
+[3]: 23
+
+[4]: 24
+
+[5]: 25
+
+[6]: 26
+
+[7]: 27
+
+[8]: 28
+
+[9]: 29
+
+[10]: 30
+
+21 22 23 24 25 26 27 28 29 30 
+
+Enter command.  L = left R = right E = exchange Q = quit l
+
+22 23 24 25 26 27 28 29 30 21 
+
+Enter command.  L = left R = right E = exchange Q = quit l
+
+23 24 25 26 27 28 29 30 21 22 
+
+Enter command.  L = left R = right E = exchange Q = quit l
+
+24 25 26 27 28 29 30 21 22 23 
+
+Enter command.  L = left R = right E = exchange Q = quit r
+
+23 24 25 26 27 28 29 30 21 22 
+
+Enter command.  L = left R = right E = exchange Q = quit r
+
+22 23 24 25 26 27 28 29 30 21 
+
+Enter command.  L = left R = right E = exchange Q = quit E
+
+Exchange which 2 locations?
+0 7
+
+29 23 24 25 26 27 28 22 30 21 
+
+Enter command.  L = left R = right E = exchange Q = quit E
+
+Exchange which 2 locations?
+10 2
+
+Caution: Out of Bounds Exchange Attempted
+
+29 23 24 25 26 27 28 22 30 21 
+
+Enter command.  L = left R = right E = exchange Q = quit e
+
+Exchange which 2 locations?
+5 5
+
+29 23 24 25 26 27 28 22 30 21 
+
+Enter command.  L = left R = right E = exchange Q = quit q
+
+Bye bye
+29 23 24 25 26 27 28 22 30 21 

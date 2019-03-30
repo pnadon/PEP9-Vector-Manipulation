@@ -1,0 +1,51 @@
+How big is your vector? -5
+
+[1]: 1
+
+1 
+
+Enter command.  L = left R = right E = exchange Q = quit L
+
+1 
+
+Enter command.  L = left R = right E = exchange Q = quit l
+
+1 
+
+Enter command.  L = left R = right E = exchange Q = quit R
+
+1 
+
+Enter command.  L = left R = right E = exchange Q = quit r
+
+1 
+
+Enter command.  L = left R = right E = exchange Q = quit e
+
+Exchange which 2 locations?
+0 0
+
+1 
+
+Enter command.  L = left R = right E = exchange Q = quit E
+
+Exchange which 2 locations?
+0 1
+
+Caution: Out of Bounds Exchange Attempted
+
+1 
+
+Enter command.  L = left R = right E = exchange Q = quit E
+
+Exchange which 2 locations?
+-1 0
+
+Caution: Out of Bounds Exchange Attempted
+
+1 
+
+Enter command.  L = left R = right E = exchange Q = quit q
+
+Bye bye
+1 

@@ -1,0 +1,70 @@
+How big is your vector? 20
+
+[1]: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+
+[2]: 
+[3]: 
+[4]: 
+[5]: 
+[6]: 
+[7]: 
+[8]: 
+[9]: 
+[10]: 
+[11]: 
+[12]: 
+[13]: 
+[14]: 
+[15]: 
+[16]: 
+[17]: 
+[18]: 
+[19]: 
+[20]: 
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+
+Enter command.  L = left R = right E = exchange Q = quit l
+
+2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 1 
+
+Enter command.  L = left R = right E = exchange Q = quit r
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+
+Enter command.  L = left R = right E = exchange Q = quit L
+
+2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 1 
+
+Enter command.  L = left R = right E = exchange Q = quit R
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+
+Enter command.  L = left R = right E = exchange Q = quit e
+
+Exchange which 2 locations?
+-1 19
+
+Caution: Out of Bounds Exchange Attempted
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+
+Enter command.  L = left R = right E = exchange Q = quit E
+
+Exchange which 2 locations?
+0 19
+
+20 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 1 
+
+Enter command.  L = left R = right E = exchange Q = quit e
+
+Exchange which 2 locations?
+0 20
+
+Caution: Out of Bounds Exchange Attempted
+
+20 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 1 
+
+Enter command.  L = left R = right E = exchange Q = quit Q
+
+Bye bye
+20 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 1
